@@ -22,7 +22,7 @@ author: Guftar Raza
 navbar-links:
   About Me: "Welcome to my blog! I am a dedicated Security Engineer with a degree in Software Engineering from NUST, Pakistan, and over two years of hands-on experience specializing in cloud security. My expertise lies in leveraging the Azure Security Stack to craft robust security solutions that protect customers and their businesses from evolving threats. Passionate about implementing innovative and secure strategies, I strive to stay at the forefront of the industry to ensure the highest level of defense and resilience in the digital landscape. Here, I share insights, best practices, and developments in cloud security to help you navigate and secure your technological environment effectively."
   Resources:
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
