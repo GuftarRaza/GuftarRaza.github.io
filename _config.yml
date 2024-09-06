@@ -9,22 +9,22 @@
 # --- Required options --- #
 ############################
 
-# Name of website
-title: My website
+# Name of Website
+title: Cloud Security
 
 # Your name to show in the footer
-author: Some Person
+author: Guftar Raza
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Welcome to my blog! I am a dedicated Security Engineer with a degree in Software Engineering from NUST, Pakistan, and over two years of hands-on experience specializing in cloud security. My expertise lies in leveraging the Azure Security Stack to craft robust security solutions that protect customers and their businesses from evolving threats. Passionate about implementing innovative and secure strategies, I strive to stay at the forefront of the industry to ensure the highest level of defense and resilience in the digital landscape. Here, I share insights, best practices, and developments in cloud security to help you navigate and secure your technological environment effectively."
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -50,17 +50,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "guftarraza512@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: guftarraza
+ # twitter: daattali
+ # patreon: DeanAttali
+#  youtube: "@daattali"
+ # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: linkedin.com/in/guftar-raza
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -85,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: If you are consistent, and have found a way here to my blog, you are at right place.
 
 ###########################
 # --- General options --- #
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "guftarraza.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
