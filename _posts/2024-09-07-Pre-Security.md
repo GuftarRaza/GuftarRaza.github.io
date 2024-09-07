@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Steps Before Starting a Career in Cybersecurity
-subtitle: Building a Strong Foundation: Essential Steps Before Starting a Career in Cybersecurity
+subtitle: Building a Strong Foundation - Essential Steps Before Starting a Career in Cybersecurity
 tags: [Cyber Security, Career, Paths]
 author: Guftar Raza
 ---
